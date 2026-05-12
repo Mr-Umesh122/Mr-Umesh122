@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Mr-Umesh122/Mr-Umesh122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE (Data Science) student passionate about technology, problem solving, and building real-world projects.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- AI & Machine Learning
+- MERN Stack Development
+- Data Structures and Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Interests
+- Artificial Intelligence
+- Full Stack Web Development
+- Building useful projects
+
+## 📚 Goals
+- Build impactful AI/ML projects
+- Improve development skills
+- Become a skilled Full Stack Developer
+- Contribute to open source projects
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React, Node.js, Express.js
+- MongoDB/SQL
+- Python
+- Numpy, Pandas, Matplotlib, Seaborn
+- ML Algorithm
+
+## 🌱 About Me
+I enjoy learning new technologies, creating projects, and continuously improving my coding skills.
+
+Thanks for visiting my profile! 🚀
