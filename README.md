@@ -3,6 +3,7 @@
 I'm a CSE (Data Science) student passionate about technology, problem solving, and building real-world projects.
 
 ## 🚀 Currently Learning
+- Data analytics
 - AI & Machine Learning
 - MERN Stack Development
 - Data Structures and Algorithms
