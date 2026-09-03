@@ -1,10 +1,5 @@
 # Hi there 👋
 
-
-
-
-
-
 I'm a CSE (Data Science) student passionate about technology, problem solving, and building real-world projects.
 
 ## 🚀 Currently Learning
